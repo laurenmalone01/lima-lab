@@ -1,0 +1,35 @@
+body{
+    background-color: lightgrey;
+}
+#img1{
+    width: 100%;
+    height: auto;
+    }
+
+.timesheetdiv{
+    border-style:dotted;
+    border:100px;
+}
+
+#btn1{
+    /* background-color: cadetblue; */
+    margin: 5%;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-left: 550px;
+    display: block;
+    right:50%;
+    
+    
+    }
+
+#navbar{
+    background-color: white;
+}
+
+#idealtimesheet{
+    width: 75%;
+    height: auto;
+}
